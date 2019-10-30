@@ -1,4 +1,4 @@
-# svelte-typescript-boilerplate
+# svelte-typescript-boilerplate [unmaintained]
 
 This is a [Svelte](https://svelte.technology/) Starter-Project based on [brakmic/Svelte-TypeScript-WebPack-Starter](https://github.com/brakmic/Svelte-TypeScript-WebPack-Starter) containing:
 
